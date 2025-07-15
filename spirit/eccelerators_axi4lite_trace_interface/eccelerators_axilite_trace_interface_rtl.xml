@@ -435,7 +435,7 @@
       </spirit:wire>
     </spirit:port>   
      <spirit:port>
-      <spirit:logicalName>UnoccupiedAck</spirit:logicalName>
+      <spirit:logicalName>HxsExtraUp_UNOCCUPIEDACK</spirit:logicalName>
       <spirit:description>Unoccupied Acknowledge</spirit:description>
       <spirit:wire>
         <spirit:qualifier>
@@ -452,7 +452,7 @@
       </spirit:wire>
     </spirit:port>       
      <spirit:port>
-      <spirit:logicalName>TimeoutAck</spirit:logicalName>
+      <spirit:logicalName>HxsExtraUp_TIMEOUTACK</spirit:logicalName>
       <spirit:description>Timeout Acknowledge</spirit:description>
       <spirit:wire>
         <spirit:qualifier>
@@ -469,7 +469,7 @@
       </spirit:wire>
     </spirit:port>
      <spirit:port>
-      <spirit:logicalName>Selects</spirit:logicalName>
+      <spirit:logicalName>HxsExtraDown_SELECTS</spirit:logicalName>
       <spirit:description>HxS Selects</spirit:description>
       <spirit:wire>
         <spirit:qualifier>
